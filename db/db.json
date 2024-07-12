@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "shravan",
+      "email": "nspkumar6573@gmail.com",
+      "phone": "12345679",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "rahul",
+      "email": "nsumar6573@gmail.com",
+      "phone": "1234567"
+    },
+    {
+      "name": "sayantika",
+      "email": "fdfaa",
+      "phone": "44444444",
+      "id": "c2c5"
+    },
+    {
+      "name": "vasu dev",
+      "email": "f@gmail.com",
+      "phone": "4444444",
+      "id": "ee4f"
+    }
+ 
+ 
+  
+  ]
+}
